@@ -1,4 +1,9 @@
 def fib(n):
+    """
+    This fuction calculates Fibonnacci sequence
+    n -- 
+    Returns: int -- 
+    """
     if n == 1:
         return 1
     if n == 2:
